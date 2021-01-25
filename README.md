@@ -1,2 +1,1 @@
-# pneumonia-detection
-Pneumonia Detection Software
+# Pneumonia Detection Software
